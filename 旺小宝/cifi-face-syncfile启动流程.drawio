@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-24T07:56:41.433Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="9ucloJjcrSPILXx552c6" version="13.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-24T07:58:15.721Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="GyoQbZropF9tACP78xS9" version="13.3.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -132,7 +132,7 @@
         <mxCell id="8OcqR2B387YAhKKuT4QE-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8OcqR2B387YAhKKuT4QE-53" target="8OcqR2B387YAhKKuT4QE-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8OcqR2B387YAhKKuT4QE-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8OcqR2B387YAhKKuT4QE-53" target="8OcqR2B387YAhKKuT4QE-17" edge="1">
+        <mxCell id="AER5DHuSXVSgTBMbcSWO-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=-0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8OcqR2B387YAhKKuT4QE-53" target="8OcqR2B387YAhKKuT4QE-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8OcqR2B387YAhKKuT4QE-53" value="通道配置检查" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -144,8 +144,17 @@
         <mxCell id="8OcqR2B387YAhKKuT4QE-58" value="有通道" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="340" y="1109" width="50" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="AER5DHuSXVSgTBMbcSWO-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8OcqR2B387YAhKKuT4QE-63" target="8OcqR2B387YAhKKuT4QE-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8OcqR2B387YAhKKuT4QE-63" value="&lt;h3&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;&lt;u&gt;现在需要修改为：无论通道检查是否成功都需要让程序正常启动&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="280" y="1180" width="520" height="50" as="geometry" />
+          <mxGeometry x="290" y="1210" width="520" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AER5DHuSXVSgTBMbcSWO-4" value="" style="endArrow=none;dashed=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8OcqR2B387YAhKKuT4QE-53" target="8OcqR2B387YAhKKuT4QE-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="1280" as="sourcePoint" />
+            <mxPoint x="750" y="1230" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
